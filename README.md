@@ -6,5 +6,4 @@
 
 3.Created a Python script for analyzing the financial records of our company. We have a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
 
-
 4. Created a Python script that analyzes the votes and calculates different parameters from election_data.csv
