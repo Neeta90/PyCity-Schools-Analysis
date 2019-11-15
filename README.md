@@ -5,3 +5,5 @@
 2.Medium school size(<1000 - 2000) and Medium spending range of individual school ($585-615) has more overall passing rate.
 
 3.Created a Python script for analyzing the financial records of our company. We have a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
+
+4. Created a Python script that analyzes the votes and calculates 
