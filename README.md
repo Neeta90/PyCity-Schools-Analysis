@@ -4,7 +4,7 @@
 
 2.Medium school size(<1000 - 2000) and Medium spending range of individual school ($585-615) has more overall passing rate.
 
-3. 3.Schools results are high in average reading score compare to average math score.
+3. Schools results are high in average reading score compare to average math score.
 
 
 
